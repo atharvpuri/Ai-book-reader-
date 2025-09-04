@@ -1,0 +1,5 @@
+{
+  "name": "AI Book Analyzer",
+  "description": "An AI-powered application that allows users to upload a book (.txt file) and ask questions about its content. It leverages the Gemini API to provide in-depth analysis and answers based solely on the provided text.",
+  "requestFramePermissions": []
+}
